@@ -1,0 +1,21 @@
+.empHeader{
+    background-color: blueviolet;
+    padding: 10px 30px;
+}
+.navbar-brand{
+    font-weight: 900;
+}
+.empHeader  a{
+color: #ffffff;
+
+}
+.dividerSeparate{
+    flex: 1 1 auto; 
+}
+.navbar-nav a{
+    font-weight: 600;
+}
+.navbar-nav a:hover{
+    color: rgb(49, 49, 49);
+    text-decoration: underline;
+}

@@ -1,0 +1,12 @@
+.card-body p{
+    margin: 2px;
+}
+.card{
+    width: 350px;
+   border: 2px solid hsla(0, 0%, 7%, 0.616);
+   background-color: rgb(240, 255, 255);
+   
+}
+.container{
+    margin-top: 80px;
+}
